@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @pykenko
-- 👀 I’m interested in Reverse Engineering and Maldev
-- 🌱 I’m currently learning Reverse Engineering
-- 📫 How to reach me ...
+- 🌱 I’m interested in Reverse Engineering and Maldev
 - 😄 Pronouns: He/Him
