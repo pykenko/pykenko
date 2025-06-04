@@ -10,9 +10,5 @@ Hack The Box
 ---
 [![Hack The Box](https://www.hackthebox.com/badge/image/1456197)](https://app.hackthebox.com/profile/1456197)
 
-Try Hack me
----
-[![My TryHackMe Rank](https://tryhackme.com/p/rerushia/badges/user-rank.svg)](https://tryhackme.com/p/rerushia)
-
 
 
