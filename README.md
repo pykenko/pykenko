@@ -12,6 +12,6 @@ Hack The Box
 
 Stats
 ---
-![pykenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pykenko&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ![pykenko's Stats](https://github-readme-stats.vercel.app/api?username=pykenko&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 ![pykenko's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pykenko&theme=vue-dark&hide_border=false)
+![pykenko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pykenko&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
