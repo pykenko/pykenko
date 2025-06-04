@@ -12,4 +12,6 @@ Hack The Box
 
 Try Hack me
 ---
-[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/rerushia.png)](https://tryhackme.com/p/rerushia)
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/rerushia.png)
+
+
