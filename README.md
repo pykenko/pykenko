@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @pykenko
+- 👋 Hi, I’m auric
 - 🌱 I’m interested in Reverse Engineering and Maldev
 - 😄 Pronouns: He/Him
