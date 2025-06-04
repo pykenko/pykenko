@@ -10,4 +10,6 @@ Hack The Box
 ---
 [![Hack The Box](https://www.hackthebox.com/badge/image/1456197)](https://app.hackthebox.com/profile/1456197)
 
-
+Try Hack me
+---
+[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/rerushia.png)](https://tryhackme.com/p/rerushia)
