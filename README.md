@@ -1,5 +1,5 @@
 - 👋 Hi, I’m auric
-- 🌱 I’m interested in Reverse Engineering and Maldev
+- 🌱 I’m interested in Web Exploitation and Reverse Engineering
 - 😄 Pronouns: He/Him
 
 Hack The Box
