@@ -1,7 +1,16 @@
-- 👋 Hi, I’m auric
-- 🌱 I’m interested in Web Exploitation and Reverse Engineering
-- 😄 Pronouns: He/Him
+# Hi there, I'm Renko
 
-Hack The Box
----
-[![Hack The Box](https://www.hackthebox.com/badge/image/1456197)](https://app.hackthebox.com/profile/1456197)
+### Also known as: `auric`
+
+Cyber Security Student at **Binus University**
+
+**Reverse Engineering Lead** at **PETIR**
+**Web Exploitation Member** at **PETIR**
+
+I enjoy breaking things apart to understand how they work and discovering vulnerabilities in web applications. These two areas are my favorite topics in cybersecurity.
+
+Active CTF player and member of:
+
+* **Water Paddler**
+* **PETIR**
+* **Blue Water**
